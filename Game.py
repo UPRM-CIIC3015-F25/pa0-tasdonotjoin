@@ -1,5 +1,7 @@
 import pygame, sys, random
 
+#This is a test commit
+
 def ball_movement():
     """
     Handles the movement of the ball and collision detection with the player and screen boundaries.
